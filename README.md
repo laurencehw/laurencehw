@@ -16,4 +16,4 @@ I use this space to host code for my academic research, teaching materials, and 
 
 ### 📫 How to reach me
 - **Professional:** [LinkedIn](https://www.linkedin.com/in/laurence-w-764b562)
-- **Web:** [laurencehw.github.io](https://laurencehw.github.io)
+  
