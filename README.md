@@ -1,6 +1,6 @@
 # Hi there, I'm Laurence 👋
 
-I am an economist and researcher based in New York City. I have experience in economic consulting, across a range of topics (policy work, impact analysis, litigation consulting, etc.). I also worked in tech for 4 years in a policy/comms/GR function. I also have experience teaching at NYU, Columbia, and the University of Johannesburg topics including public economics, development economics, emerging tech policy, antitrust research methods, and urban economics. 
+I am an economist and researcher based in New York City. I have experience in economic consulting, across a range of topics (policy work, impact analysis, litigation consulting, etc.). I also worked in tech for 4 years in a policy/comms/GR function. I have experience teaching at NYU, Columbia, and the University of Johannesburg across a range of topics including public economics, development economics, emerging tech policy, antitrust research methods, and urban economics. 
 
 I use this space to host code for my academic research, teaching materials, and economic policy tools.
 
