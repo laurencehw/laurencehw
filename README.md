@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Laurence 👋
 
-<!--
-**laurencehw/laurencehw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an economist and researcher based in New York City. I have experience in economic consulting, across a range of topics (policy work, impact analysis, litigation consulting, etc.). I also have experience teaching at NYU, Columbia, and the University of Johannesburg topics including public economics, development economics, emerging tech policy, antitrust research methods, and urban economics. 
 
-Here are some ideas to get you started:
+I use this space to host code for my academic research, teaching materials, and economic policy tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on ...
+- **Digital History:** Building a panel dataset of historical South African electoral and magisterial districts data.
+- **Policy Tools:** Developing a [fiscal policy calculator](https://github.com/laurencehw/fiscal-policy-calculator) to analyze economic impacts of tax and spending changes.
+- **Budget Analysis:** Analyzing South African budgetary reports in my [brrr_recs](https://github.com/laurencehw/brrr_recs) repository to think about policy options.
+- **Writing:** Drafting textbooks on public economics and regional economics, amongst others!
+
+### 🛠️ Languages & Tools
+- **Core:** Python (Data Analysis, Automation), R (Statistics, Econometrics)
+- **Interests:** AI-assisted coding, Geospatial Analysis (QGIS/GeoPandas), and Economic Modeling.
+
+### 📫 How to reach me
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/laurence-w-764b562)
+- **Web:** [laurencehw.github.io](https://laurencehw.github.io)
