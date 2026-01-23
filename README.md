@@ -5,10 +5,10 @@ I am an economist and researcher based in New York City. I have experience in ec
 I use this space to host code for my academic research, teaching materials, and economic policy tools.
 
 ### 🔭 I’m currently working on ...
-- **Digital History:** Building a panel dataset of historical South African electoral and magisterial districts data.
+- **Digital History:** Work on an economic history of Apartheid from 1969 to 1989, including building a panel dataset of historical South African electoral and magisterial districts data.
 - **Policy Tools:** Developing a [fiscal policy calculator](https://github.com/laurencehw/fiscal-policy-calculator) to analyze economic impacts of tax and spending changes.
 - **Budget Analysis:** Analyzing South African budgetary reports in my [brrr_recs](https://github.com/laurencehw/brrr_recs) repository to think about policy options.
-- **Writing:** Drafting textbooks on public economics and [the american economy](https://github.com/laurencehw/the-american-economy), amongst others!
+- **Writing:** Drafting textbooks on public economics and [the american economy](https://github.com/laurencehw/the-american-economy), amongst [others](https://laurence-wilse-samson.gitbook.io/textbooks/)!
 
 ### 🛠️ Languages & Tools
 - **Core:** Python (Data Analysis, Automation), R (Statistics, Econometrics)
