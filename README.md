@@ -1,19 +1,22 @@
-# Hi there, I'm Laurence 👋
+# Hi, I'm Laurence
 
-I am an economist and researcher based in New York City. I have experience in economic consulting, across a range of topics (policy work, impact analysis, litigation consulting, etc.). I also worked in tech for 4 years in a policy/comms/GR function. I have experience teaching at NYU, Columbia, and the University of Johannesburg across a range of topics including public economics, development economics, labor economics, emerging tech policy, antitrust research methods, and urban economics. 
+I am an economist and researcher based in New York City, working as a consultant and serving as adjunct faculty at Columbia University and NYU. My work spans applied research, policy analysis, and teaching, with a focus on understanding how economic institutions shape development and how governments can use economic tools more effectively.
 
 I use this space to host code for my academic research, teaching materials, and economic policy tools.
 
-### 🔭 I’m currently working on ...
-- **Digital History:** Work on an economic history of Apartheid from 1969 to 1989, including building a panel dataset of historical South African electoral and magisterial districts data.
-- **Policy Tools:** Developing a [fiscal policy calculator](https://github.com/laurencehw/fiscal-policy-calculator) to analyze economic impacts of tax and spending changes.
-- **Budget Analysis:** Analyzing South African budgetary reports in my [brrr_recs](https://github.com/laurencehw/brrr_recs) repository to think about policy options.
-- **Writing:** Drafting textbooks on public economics and [the american economy](https://github.com/laurencehw/the-american-economy), amongst [others](https://laurence-wilse-samson.gitbook.io/textbooks/)!
+## Current Projects
 
-### 🛠️ Languages & Tools
-- **Core:** Python (Data Analysis, Automation), R (Statistics, Econometrics)
-- **Interests:** AI-assisted coding, Geospatial Analysis (QGIS/GeoPandas), and Economic Modeling.
+- **Digital History:** Building a panel dataset of historical South African electoral and magisterial districts for an economic history of Apartheid (1969-1989).
+- **Policy Tools:** Developing a [Fiscal Policy Calculator](https://github.com/laurencehw/fiscal-policy-calculator) to analyze economic impacts of tax and spending changes.
+- **Budget Analysis:** Analyzing South African budgetary reports in my [brrr_recs](https://github.com/laurencehw/brrr_recs) repository to identify policy options.
+- **Writing:** Drafting textbooks on [Economic Coercion](https://github.com/laurencehw/economic-coercion), [The American Economy](https://github.com/laurencehw/the-american-economy), and [others](https://laurence-wilse-samson.gitbook.io/textbooks/).
 
-### 📫 How to reach me
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/laurence-w-764b562)
-  
+## Teaching
+
+**NYU Wagner:** Economics of International Development, Public Economics, Urban Economics, Labor Policy
+
+**Columbia SIPA:** Understanding Emerging Technologies
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/laurence-w-764b562) | lw3387@nyu.edu
