@@ -17,6 +17,8 @@ I use this space to host code for my academic research, teaching materials, and 
 
 **Columbia SIPA:** Understanding Emerging Technologies
 
+**University of Johannesburg CCRED:** Competition Policy Research Methods
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/laurence-w-764b562) | lw3387@nyu.edu
