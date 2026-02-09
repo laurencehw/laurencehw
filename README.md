@@ -1,8 +1,8 @@
 # Hi, I'm Laurence
 
-I am an economist and researcher based in New York City, working as a consultant and serving as adjunct faculty at Columbia University and NYU. My work spans applied research, policy analysis, and teaching, with a focus on understanding how economic institutions shape development and how governments can use economic tools more effectively.
+I am an economist and researcher based in New York City, working as a consultant and serving as adjunct faculty at Columbia University and NYU. My work spans applied research, policy analysis, and teaching, with a focus on understanding how economic institutions shape economic outcomes.
 
-I use this space to host code for my academic research, teaching materials, and economic policy tools.
+I use this space to host my academic research, book projects, teaching materials, and experimental apps and tools.
 
 ## Current Projects
 
