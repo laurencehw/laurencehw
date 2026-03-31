@@ -7,7 +7,7 @@ I use this space to host my research, book projects, teaching materials, and exp
 ## Current Projects (sample)
 
 - **Policy mapping:** Analyzing South African parliamentary committee meetings to identify policy priorities in my [SA Policy Space](https://github.com/laurencehw/sa-policy-space) repository to understand the policy landscape.
-- **Digital History:** Creating a data rich economic history of the end of Apartheid in South Africa (1969-1989). 
+- **Digital History:** Creating a data rich economic history of the end of [Apartheid](https://laurencehw.github.io/sa-apartheid-economy-data/) in South Africa. 
 - **Budget Analysis:** Developing a toy [Fiscal Policy Calculator](https://github.com/laurencehw/fiscal-policy-calculator) to model the impacts of tax and spending changes on the budget and individual tax burdens (in the US).
 - **Writing:** Drafting textbooks on [Economic Coercion](https://github.com/laurencehw/economic-coercion), [The American Economy](https://github.com/laurencehw/the-american-economy), among a dozen [others](https://laurence-wilse-samson.gitbook.io/textbooks/).
 
