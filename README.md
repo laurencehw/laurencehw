@@ -1,14 +1,14 @@
 # Hi, I'm Laurence
 
-I am an economist and researcher based in New York City, working as a consultant and serving as adjunct faculty at Columbia University, NYU, and the University of Jahnnesburg. My work spans applied research, policy analysis, and teaching, with a focus on understanding how economic institutions shape economic outcomes.
+I am based in New York, where I work as a consultant and serve as adjunct faculty at Columbia University, NYU, and the University of Jahnnesburg. My work spans applied research, policy analysis, tech regulation, and teaching, with a broad focus on understanding how institutions shape economic outcomes and welfare.
 
-I use this space to host my research, book projects, teaching materials, and experimental apps and tools.
+I use this space to host some of my research, book projects, teaching materials, and experimental apps and tools.
 
 ## Current Projects (sample)
 
 - **Policy mapping:** Analyzing South African parliamentary committee meetings to identify policy priorities in my [SA Policy Space](https://github.com/laurencehw/sa-policy-space) repository to understand the policy landscape.
-- **Digital History:** Creating a data rich economic history of the end of [Apartheid](https://laurencehw.github.io/sa-apartheid-economy-data/) in South Africa. 
-- **Budget Analysis:** Developing a toy [Fiscal Policy Calculator](https://github.com/laurencehw/fiscal-policy-calculator) to model the impacts of tax and spending changes on the budget and individual tax burdens (in the US).
+- **Digital History:** Creating a data rich economic history of [Apartheid](https://laurencehw.github.io/sa-apartheid-economy-data/) in South Africa. 
+- **Budget Analysis:** Developing a [Fiscal Policy Calculator](https://github.com/laurencehw/fiscal-policy-calculator) to model the impacts of tax and spending changes on the deficit in the US.
 - **Writing:** Drafting textbooks on [Economic Coercion](https://github.com/laurencehw/economic-coercion), [The American Economy](https://github.com/laurencehw/the-american-economy), among a dozen [others](https://laurence-wilse-samson.gitbook.io/textbooks/).
 
 ## Teaching
