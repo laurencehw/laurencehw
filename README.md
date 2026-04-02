@@ -1,6 +1,6 @@
 # Hi, I'm Laurence
 
-I am based in New York, where I work as a consultant and serve as adjunct faculty at Columbia University, NYU, and the University of Jahnnesburg. My work spans applied research, policy analysis, tech regulation, and teaching, with a broad focus on understanding how institutions shape economic outcomes and welfare.
+I am based in New York, where I work as a consultant and serve as adjunct faculty at Columbia University, NYU, and the University of Johannesburg. My work spans applied research, policy analysis, tech regulation, and teaching, with a broad focus on understanding how institutions shape economic outcomes and welfare.
 
 I use this space to host some of my research, book projects, teaching materials, and experimental apps and tools.
 
